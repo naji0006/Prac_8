@@ -1,0 +1,15 @@
+Introduction 
+In this practical, I have joined with one of the American study group members who had a fair amount of knowledge on the Java programming language. He has explained his background as an engineer which later caused me to be surprised as his programming skills was to an extent, as good as a computer science student!  We have decided to use Java to implement our program. 
+Benefits I have experienced
+As we have gone through the prac, we both had experienced quite a few advantages as a team which made the end-result of our work to be a bit more accurate.
+Tactical advantage 
+There were several tactical advantages that utilised our performance and the end-result in a much more robust manner. For instance, when I was the navigator, and my teammate was the programmer, he has used if and if else statements, because he wanted to execute some conditional statements. I have suggested him that using switch case statement can give us a tactical advantage in run-time as it executes relatively faster in cases that there are too many if else statements 
+Learning More 
+As my teammate was from an engineering background, he had a different perspective on OO programming. He was less familiar to the OO approach as he was more interested in executing all of his code within the main executable method as oppose to my approach to split the code in different methods and reuse them where I see fit. I have spoken to him regarding this issue and mentioned that OO approach is much more open to maintenance, as each method can be changed independently which can reflect and changes any invocations that are related to methods themselves. He appreciated this explanation and mentioned that he is going to consider enhancing his OO programming skills.
+Primitive Errors
+When I was the coder and my teammate was the navigator, he was constantly breaking me off as my fast typing often involves mistakes (typos), and this has caused instant corrections. He on the other hand had typing mistakes as well, so I had to cut him off at times to make him correct his.
+   
+Difficulties I have experienced
+I think that the only difficulty that I had was my teammate’s constant interruptions that were not all necessary related to the prac. For instance, he had interrupted my coding by basically initiating conversations on his engineering experience, therefore I think he was not quite focused on his task as a navigator. I basically couldn’t ask him to stop irrelevant conversations because I simply didn’t know him and I thought it could be deemed as rude if done so!
+Conclusion
+I will use pair programming in future in an environment and with someone that I have familiarity with, as this makes the communication as effective as possible. I would, under general circumstances, avoid pairing with someone I’m not familiar with, because based on what I have experienced in this prac, I have come to conclusion that Solo Programming is much more efficient as there are no unnecessary and time wasting communications, and therefore intended end-result can be achieved faster.
