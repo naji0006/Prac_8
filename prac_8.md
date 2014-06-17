@@ -1,6 +1,6 @@
 <h2>Introduction</h2>
 In this practical, I have joined with one of the American study group members who had a fair amount of knowledge on the Java programming language. He has explained his background as an engineer which later caused me to be surprised as his programming skills was to an extent, as good as a computer science student! We have decided to use Java to implement our program. 
-<h3>Benefits I have experienced</h3>
+<h2>Benefits I have experienced</h2>
 As we have gone through the prac, we both had experienced quite a few advantages as a team which made the end-result of our work to be a bit more accurate.
 <h3>Tactical advantage</h3> 
 There were several tactical advantages that utilised our performance and the end-result in a much more robust manner. For instance, when I was the navigator, and my teammate was the programmer, he has used if and if else statements, because he wanted to execute some conditional statements. I have suggested him that using switch case statement can give us a tactical advantage in run-time as it executes relatively faster in cases that there are too many if else statements 
